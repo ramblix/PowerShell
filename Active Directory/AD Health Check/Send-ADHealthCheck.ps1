@@ -1,0 +1,1 @@
+﻿C:\Scripts\Get-DAGHealth-v1.01\ADHealthCheck.ps1 -SendEmail
